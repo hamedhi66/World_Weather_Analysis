@@ -1,296 +1,296 @@
-City_ID,City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Rain inches (last 3 hrs),Snow inches (last 3 hrs)
-1,1,Padang,ID,-0.92,100.36,65.68,96,100,1.39,0.0,0.0
-2,2,Chuy,UY,-33.69,-53.46,65.05,78,2,13.13,0.0,0.0
-5,5,Vallenar,CL,-28.58,-70.76,68.27,48,29,9.84,0.0,0.0
-6,6,Jalu,LY,29.03,21.55,70.48,64,100,9.26,0.0,0.0
-7,7,Vaini,IN,15.34,74.49,67.01,76,0,3.2,0.0,0.0
-8,8,Nizwa,OM,22.93,57.53,65.52,67,35,4.43,0.19,0.0
-9,9,Bredasdorp,ZA,-34.53,20.04,66.0,82,100,12.75,0.0,0.0
-10,10,Awjilah,LY,29.14,21.3,70.48,64,100,9.26,0.0,0.0
-11,11,Hilo,US,19.71,-155.08,84.2,62,1,3.36,0.0,0.0
-12,12,Jamestown,AU,-33.21,138.6,61.97,26,0,11.27,0.0,0.0
-13,13,Atuona,PF,-9.8,-139.03,79.65,71,0,11.99,0.0,0.0
-15,15,Hervey Bay,AU,-25.3,152.85,70.0,67,0,6.93,0.0,0.0
-16,16,Ushuaia,AR,-54.81,-68.31,62.6,29,12,3.36,0.0,0.0
-19,19,Rikitea,PF,-23.12,-134.97,73.87,83,100,14.0,0.0,0.0
-20,20,Alofi,NU,-19.06,-169.92,80.6,69,75,12.75,0.0,0.0
-21,21,Port Alfred,ZA,-33.59,26.89,63.0,95,100,4.0,0.19,0.0
-22,22,Puerto Ayora,EC,-0.74,-90.35,78.8,61,40,11.41,0.0,0.0
-23,23,San Buenaventura,MX,27.06,-101.55,75.0,53,40,6.2,0.0,0.0
-25,25,Ormara,PK,25.21,64.64,79.75,47,87,9.13,0.0,0.0
-27,27,Cape Town,ZA,-33.93,18.42,69.01,72,0,3.36,0.0,0.0
-29,29,Dutlwe,BW,-23.98,23.93,72.12,66,100,11.81,1.5,0.0
-30,30,Arraial Do Cabo,BR,-22.97,-42.02,82.4,83,40,9.17,0.0,0.0
-31,31,Sembakung,ID,3.82,117.25,74.61,90,65,2.44,0.0,0.0
-35,35,Omboue,GA,-1.57,9.26,75.06,98,100,1.72,14.38,0.0
-36,36,Buchanan,LR,5.88,-10.05,80.6,83,40,3.94,0.0,0.0
-37,37,Nome,US,30.04,-94.42,77.0,44,1,6.93,0.0,0.0
-39,39,Port Lincoln,AU,-34.72,135.86,69.98,25,0,19.84,0.0,0.0
-40,40,Coquimbo,CL,-29.95,-71.34,82.0,72,20,12.75,0.0,0.0
-42,42,Mahebourg,MU,-20.41,57.7,72.0,94,40,3.36,0.0,0.0
-44,44,Lorengau,PG,-2.02,147.27,83.53,73,63,9.04,0.0,0.0
-45,45,Butaritari,KI,3.07,172.79,83.53,72,100,6.2,0.0,0.0
-46,46,Corinto,CO,3.17,-76.26,86.0,51,40,12.75,0.0,0.0
-50,50,Tumarbong,PH,10.38,119.46,73.15,96,26,2.04,0.0,0.0
-52,52,Castro,CL,-42.48,-73.76,64.4,59,99,6.93,0.0,0.0
-53,53,Faanui,PF,-16.48,-151.75,79.59,77,100,11.99,0.0,0.0
-54,54,Karratha,AU,-20.74,116.85,79.34,51,0,16.2,0.0,0.0
-55,55,Fortuna,US,40.6,-124.16,62.01,77,20,10.29,0.0,0.0
-57,57,Beloha,MG,-25.17,45.06,65.48,81,4,13.44,0.0,0.0
-63,63,Puerto Escondido,MX,15.86,-97.07,87.8,70,40,9.17,0.0,0.0
-66,66,Inirida,CO,3.87,-67.92,81.41,87,100,4.54,1.19,0.0
-67,67,Hithadhoo,MV,-0.6,73.08,82.45,73,98,8.41,0.38,0.0
-68,68,Georgetown,GY,6.8,-58.16,86.0,74,20,11.41,0.0,0.0
-69,69,Lompoc,US,34.64,-120.46,80.01,68,1,13.87,0.0,0.0
-70,70,Maralal,KE,1.1,36.7,65.55,80,76,13.42,0.31,0.0
-71,71,Noumea,NC,-22.28,166.46,75.99,64,90,2.24,0.0,0.0
-72,72,Ajdabiya,LY,30.75,20.22,69.44,72,96,4.03,0.0,0.0
-74,74,Bambous Virieux,MU,-20.34,57.76,72.0,94,40,3.36,0.0,0.0
-78,78,Tual,ID,-5.67,132.75,80.62,73,100,4.79,0.0,0.0
-82,82,Hermanus,ZA,-34.42,19.24,66.0,86,48,11.99,0.0,0.0
-83,83,Teknaf,BD,20.86,92.31,71.26,99,76,1.95,3.13,0.0
-85,85,East London,ZA,-33.02,27.91,67.73,85,100,21.63,1.31,0.0
-86,86,Touros,BR,-5.2,-35.46,82.4,65,40,10.29,0.0,0.0
-88,88,Lebu,ET,8.96,38.73,60.8,59,75,6.93,0.0,0.0
-92,92,Progreso,UY,-34.68,-56.22,71.6,53,40,13.87,0.0,0.0
-94,94,Watsa,CD,3.04,29.53,67.53,95,100,1.36,0.0,0.0
-95,95,Matay,EG,28.42,30.79,68.49,53,0,10.04,0.0,0.0
-96,96,Carnarvon,ZA,-30.97,22.13,64.2,52,24,7.49,0.0,0.0
-98,98,Mushie,CD,-3.02,16.92,74.01,94,53,3.31,0.0,0.0
-100,100,Maceio,BR,-9.67,-35.74,80.6,69,21,14.99,0.0,0.0
-101,101,Lithakia,GR,37.72,20.83,60.01,87,20,2.86,0.0,0.0
-103,103,Avera,US,33.19,-82.53,68.0,34,1,5.82,0.0,0.0
-104,104,Sur,OM,22.57,59.53,74.89,57,0,4.12,0.0,0.0
-106,106,Kavieng,PG,-2.57,150.8,81.63,67,100,2.42,0.0,0.0
-107,107,Coihaique,CL,-45.58,-72.07,68.0,52,40,5.82,0.0,0.0
-108,108,Bluff,AU,-23.58,149.07,73.08,21,93,2.55,0.0,0.0
-111,111,Bouna,CI,9.27,-3.0,80.13,47,11,4.27,0.0,0.0
-112,112,Marsa Matruh,EG,31.35,27.25,74.93,68,0,10.04,0.0,0.0
-113,113,Wajir,KE,1.75,40.07,85.66,56,91,9.44,0.0,0.0
-115,115,Barrow,AR,-38.31,-60.23,62.24,75,100,16.28,0.44,0.0
-117,117,Los Llanos De Aridane,ES,28.66,-17.92,69.8,83,40,18.34,0.0,0.0
-118,118,Pacific Grove,US,36.62,-121.92,75.99,62,1,4.7,0.0,0.0
-120,120,Victoria,BN,5.28,115.24,78.8,94,75,6.64,0.0,0.0
-121,121,Kavaratti,IN,10.57,72.64,80.8,73,69,6.6,0.0,0.0
-122,122,Russell,US,38.9,-98.86,68.0,36,1,16.11,0.0,0.0
-124,124,Kapaa,US,22.08,-159.32,82.4,74,40,4.7,0.0,0.0
-126,126,Airai,TL,-8.93,125.41,67.1,55,20,4.23,0.0,0.0
-127,127,Japura,ID,-0.42,102.29,72.72,98,57,1.54,1.81,0.0
-132,132,Kahului,US,20.89,-156.47,84.2,66,20,8.05,0.0,0.0
-133,133,Isangel,VU,-19.55,169.27,68.0,94,20,11.43,0.0,0.0
-135,135,Buala,SB,-8.15,159.59,81.0,80,100,5.17,4.25,0.0
-138,138,Rio Gallegos,AR,-51.62,-69.22,62.6,39,100,12.75,0.0,0.0
-139,139,Ribeira Grande,PT,38.52,-28.7,62.6,82,20,2.24,0.0,0.0
-143,143,San Jose,HN,14.25,-87.96,75.65,63,100,5.01,0.0,0.0
-145,145,San Patricio,PY,-26.98,-56.83,81.93,58,45,8.46,0.0,0.0
-148,148,Sao Felix Do Xingu,BR,-6.64,-51.99,77.05,91,99,0.49,2.38,0.0
-149,149,Tomatlan,MX,19.93,-105.25,88.11,57,0,6.26,0.0,0.0
-151,151,Diamantina,BR,-18.24,-43.6,76.24,48,97,5.64,0.0,0.0
-154,154,Nsanje,MZ,-16.92,35.26,74.25,78,41,6.58,0.0,0.0
-155,155,Lagoa,PT,37.14,-8.45,60.8,67,40,10.29,0.0,0.0
-157,157,Menongue,AO,-14.66,17.68,64.17,93,98,3.62,0.69,0.0
-158,158,Avarua,CK,-21.21,-159.78,73.4,88,0,8.05,0.0,0.0
-160,160,Nhulunbuy,AU,-12.18,136.78,71.6,94,35,5.82,0.0,0.0
-161,161,Oranjemund,ZA,-28.55,16.43,60.17,85,30,7.38,0.0,0.0
-162,162,Dingle,PH,11.0,122.67,72.9,83,98,2.1,0.0,0.0
-165,165,Pantai Remis,MY,4.46,100.63,77.0,94,75,6.96,0.0,0.0
-166,166,Ponta Delgada,PT,37.73,-25.67,64.4,77,75,8.05,0.0,0.0
-167,167,Necochea,AR,-38.55,-58.74,60.01,80,95,4.0,0.0,0.0
-170,170,Ixtapa,MX,20.71,-105.21,88.0,62,5,6.93,0.0,0.0
-174,174,Cockburn Town,TC,21.46,-71.14,86.0,74,40,5.82,0.0,0.0
-176,176,Osmanabad,IN,18.19,76.04,69.71,71,0,10.58,0.0,0.0
-177,177,Acapulco,MX,16.86,-99.88,89.6,70,5,2.24,0.0,0.0
-179,179,Ancud,CL,-41.87,-73.83,64.4,59,100,6.93,0.0,0.0
-180,180,Grand Gaube,MU,-20.01,57.66,72.0,94,40,3.36,0.0,0.0
-183,183,Flinders,AU,-34.58,150.85,64.99,77,100,10.94,0.0,0.0
-184,184,Le Vauclin,MQ,14.55,-60.84,84.2,74,20,13.87,0.0,0.0
-185,185,Tadine,NC,-21.55,167.88,74.39,59,29,10.92,0.0,0.0
-194,194,Anloga,GH,5.79,0.9,80.6,83,20,8.05,0.0,0.0
-196,196,Parang,PH,7.38,124.27,67.32,77,18,3.58,0.0,0.0
-199,199,Takoradi,GH,4.89,-1.75,81.09,82,66,9.86,1.31,0.0
-204,204,Teya,MX,21.05,-89.07,84.99,66,75,9.17,0.0,0.0
-206,206,Sibolga,ID,1.74,98.78,70.9,97,95,1.77,0.25,0.0
-209,209,Aguimes,ES,27.91,-15.45,70.0,73,75,27.51,0.0,0.0
-212,212,Imbituba,BR,-28.24,-48.67,73.4,94,75,10.29,0.0,0.0
-213,213,Mmabatho,ZA,-25.85,25.61,69.8,64,89,20.8,0.56,0.0
-215,215,Mattru,SL,7.62,-11.83,77.2,87,4,3.24,0.0,0.0
-217,217,Pivijay,CO,10.46,-74.62,89.6,66,40,6.93,0.0,0.0
-218,218,Sao Joao Da Barra,BR,-21.64,-41.05,82.4,69,75,11.41,0.0,0.0
-219,219,Coahuayana,MX,18.62,-100.35,88.74,50,5,1.95,0.0,0.0
-221,221,Abu Zabad,SD,12.35,29.25,76.06,13,0,11.45,0.0,0.0
-223,223,Valle Del Guamuez,CO,0.45,-76.92,89.6,59,40,3.36,0.0,0.0
-228,228,Sitka,US,37.17,-99.65,66.99,34,100,1.99,0.0,0.0
-229,229,Codrington,AU,-28.95,153.24,61.0,76,0,3.36,0.0,0.0
-230,230,Tomigusuku,JP,26.18,127.67,71.6,64,20,12.75,0.0,0.0
-233,233,Dakar,SN,14.69,-17.45,77.0,73,100,11.41,0.0,0.0
-236,236,Satun,TH,6.62,100.07,77.0,94,75,3.36,0.0,0.0
-240,240,Mbini,GQ,1.58,9.62,80.04,84,100,8.46,4.75,0.0
-241,241,Kruisfontein,ZA,-34.0,24.73,62.67,88,100,18.3,0.0,0.0
-242,242,Redlands,US,34.06,-117.19,89.6,10,5,7.7,0.0,0.0
-243,243,The Valley,AI,18.22,-63.06,87.8,69,40,13.87,0.0,0.0
-244,244,Byron Bay,AU,-28.65,153.62,66.0,93,90,1.12,0.0,0.0
-245,245,Sao Miguel Do Araguaia,BR,-13.28,-50.16,82.42,58,52,8.63,0.69,0.0
-246,246,Zeerust,ZA,-25.54,26.07,69.8,64,100,20.8,1.75,0.0
-247,247,Sao Filipe,CV,14.9,-24.5,74.84,82,74,18.21,0.0,0.0
-248,248,Soyo,AO,-6.13,12.37,80.6,88,40,3.51,0.0,0.0
-249,249,Bandarbeyla,SO,9.49,50.81,79.36,74,56,14.05,0.19,0.0
-251,251,Manuk Mangkaw,PH,4.8,119.85,80.74,82,37,7.87,0.0,0.0
-256,256,Hualmay,PE,-11.1,-77.61,71.19,61,0,8.97,0.0,0.0
-257,257,Salalah,OM,17.01,54.1,78.8,61,20,6.93,0.0,0.0
-258,258,Mao,DO,19.55,-71.08,89.6,52,20,5.82,0.0,0.0
-262,262,Haapiti,PF,-17.57,-149.87,84.2,66,75,4.7,0.0,0.0
-266,266,Taoudenni,ML,22.68,-3.98,68.56,21,0,7.78,0.0,0.0
-267,267,Punta De Bombon,PE,-17.17,-71.79,63.19,79,81,5.41,0.0,0.0
-268,268,Cabatuan,PH,16.95,121.67,70.21,95,82,0.09,0.0,0.0
-271,271,Mtwara,TZ,-10.28,40.18,77.0,88,20,9.17,0.0,0.0
-272,272,Rundu,,-17.91,19.77,77.0,53,100,10.29,0.56,0.0
-273,273,Constitucion,MX,23.99,-104.67,78.8,24,40,5.82,0.0,0.0
-275,275,Sinnamary,GF,5.38,-52.96,81.97,84,60,14.81,0.0,0.0
-276,276,Khani,GE,41.96,42.96,62.6,33,0,12.75,0.0,0.0
-277,277,Nakhon Sawan,TH,15.7,100.13,70.07,92,33,1.92,0.0,0.0
-278,278,Henties Bay,,-22.12,14.28,60.01,91,31,9.04,0.0,0.0
-279,279,Cidreira,BR,-30.17,-50.22,69.82,86,100,17.92,0.94,0.0
-280,280,Sola,TZ,-3.17,33.8,72.93,66,84,2.95,0.0,0.0
-281,281,Iquitos,PE,-3.75,-73.25,89.6,62,75,5.82,0.0,0.0
-284,284,Harper,US,30.3,-99.24,69.01,72,90,14.99,0.0,0.0
-285,285,Tabuk,PH,17.41,121.44,69.57,96,10,4.52,0.0,0.0
-287,287,Awash,ET,8.99,40.17,73.33,45,0,9.44,0.0,0.0
-290,290,Garissa,KE,-0.46,39.64,80.6,69,100,16.2,0.0,0.0
-292,292,Mogadishu,SO,2.04,45.34,82.92,75,100,13.71,2.75,0.0
-294,294,Inhambane,MZ,-23.87,35.38,74.97,79,35,14.5,0.0,0.0
-295,295,Paranapanema,BR,-23.39,-48.72,71.98,87,83,3.94,3.75,0.0
-296,296,Santo Domingo,DO,18.48,-69.94,89.6,70,40,11.41,0.0,0.0
-298,298,Cervo,BR,-22.19,-46.24,73.4,64,100,2.1,2.44,0.0
-301,301,Luanda,AO,-8.83,13.24,80.6,78,40,4.7,0.0,0.0
-303,303,Matamoros,US,25.87,-97.51,78.8,54,90,10.29,0.0,0.0
-304,304,Orangeburg,US,33.49,-80.86,66.2,31,1,4.7,0.0,0.0
-306,306,Nortelandia,BR,-14.45,-56.8,72.09,88,100,9.4,3.06,0.0
-318,318,Rosarito,CO,4.91,-75.23,80.6,77,75,6.93,0.0,0.0
-319,319,Ponta Do Sol,BR,-20.63,-46.0,78.24,64,100,4.03,0.0,0.0
-322,322,Ankpa,NG,7.37,7.63,74.35,92,100,5.95,0.0,0.0
-325,325,Tezu,IN,27.93,96.16,63.7,98,100,1.21,2.0,0.0
-326,326,Agua Dulce,MX,18.14,-94.15,78.8,83,90,11.41,0.0,0.0
-330,330,Amahai,ID,-3.31,129.0,81.0,87,100,5.99,2.06,0.0
-331,331,Mareeba,AU,-16.99,145.42,71.6,83,40,8.05,0.0,0.0
-332,332,Sulangan,PH,11.14,123.72,82.24,74,100,12.01,0.0,0.0
-333,333,Sucua,EC,-2.46,-78.17,80.6,61,40,9.17,0.0,0.0
-334,334,La Asuncion,AR,-26.05,-65.39,67.1,73,100,4.03,1.5,0.0
-335,335,Sabha,LY,27.03,14.43,73.04,34,78,12.57,0.0,0.0
-338,338,Luderitz,,-26.65,15.16,62.6,88,0,4.7,0.0,0.0
-341,341,Sungaipenuh,ID,-2.08,101.38,63.77,97,100,1.72,3.75,0.0
-343,343,Tocopilla,CL,-22.09,-70.2,71.65,22,67,8.63,0.0,0.0
-344,344,Adrar,DZ,27.87,-0.29,62.6,29,0,4.7,0.0,0.0
-345,345,Ormond Beach,US,29.29,-81.06,78.01,56,40,9.17,0.0,0.0
-346,346,Malindi,KE,-3.22,40.12,80.6,83,40,5.77,0.0,0.0
-347,347,Alta Floresta,BR,-9.87,-56.08,81.95,68,100,3.22,0.0,0.0
-348,348,Zwedru,LR,6.07,-8.13,75.11,86,65,2.98,0.0,0.0
-350,350,Vila Franca Do Campo,PT,37.72,-25.43,64.4,77,75,8.05,0.0,0.0
-352,352,Morondava,MG,-20.3,44.28,77.74,62,0,3.51,0.0,0.0
-354,354,North Bend,US,43.41,-124.22,63.0,82,1,4.7,0.0,0.0
-357,357,Machaneng,BW,-23.19,27.49,74.25,71,100,2.04,0.0,0.0
-360,360,Nouadhibou,MR,20.93,-17.03,68.0,72,0,13.87,0.0,0.0
-361,361,Naze,NG,5.43,7.07,73.4,100,75,0.78,0.0,0.0
-364,364,Vila Velha,BR,-3.71,-38.6,86.0,62,85,12.75,0.0,0.0
-365,365,Port Shepstone,ZA,-30.74,30.45,64.58,97,100,15.93,4.81,0.0
-366,366,Nioro,GM,13.79,-15.05,89.53,19,100,8.48,0.0,0.0
-367,367,Chicama,PE,-7.84,-79.15,68.0,72,20,11.41,0.0,0.0
-368,368,Villa Rica,CO,3.18,-76.46,86.0,51,40,12.75,0.0,0.0
-369,369,Mubi,NG,10.27,13.26,78.75,34,56,2.84,0.0,0.0
-370,370,Taltal,CL,-25.41,-70.49,62.01,71,0,5.44,0.0,0.0
-374,374,Coos Bay,US,43.37,-124.22,63.0,82,1,4.7,0.0,0.0
-375,375,Texarkana,US,33.44,-94.04,73.0,43,1,8.05,0.0,0.0
-376,376,Jacala,MX,21.0,-99.19,68.38,76,89,4.88,0.0,0.0
-377,377,Rock Sound,BS,24.9,-76.2,76.41,71,0,21.68,0.13,0.0
-379,379,Tessalit,ML,20.2,1.01,76.12,12,99,11.65,0.0,0.0
-381,381,Sampit,ID,-2.54,112.95,74.77,93,0,0.47,0.0,0.0
-382,382,Comodoro Rivadavia,AR,-45.87,-67.48,60.8,55,20,27.51,0.0,0.0
-383,383,Guerrero Negro,MX,27.97,-114.04,76.05,47,99,11.92,0.0,0.0
-384,384,Labuhan,ID,-2.54,115.51,72.93,89,0,1.3,0.0,0.0
-387,387,Denpasar,ID,-8.65,115.22,73.54,89,47,3.36,0.0,0.0
-389,389,Wamba,CD,2.14,27.99,69.08,93,100,3.47,0.13,0.0
-396,396,Nanning,CN,22.83,108.3,60.8,87,100,1.88,0.0,0.0
-398,398,Danielskuil,ZA,-28.19,23.54,61.61,27,0,8.05,0.0,0.0
-401,401,Banda,IN,28.24,80.11,65.37,36,0,6.26,0.0,0.0
-402,402,Pontianak,ID,-0.02,109.34,75.04,94,27,0.27,0.13,0.0
-407,407,Cananeia,BR,-25.01,-47.93,71.73,97,100,2.21,0.56,0.0
-408,408,Broken Hill,AU,-31.97,141.45,67.69,25,0,12.84,0.0,0.0
-411,411,Siloam Springs,US,36.19,-94.54,72.0,53,1,12.75,0.0,0.0
-412,412,Pathanamthitta,IN,9.27,76.79,68.65,95,68,2.26,0.56,0.0
-414,414,Ballitoville,ZA,-29.54,31.21,66.2,93,75,14.99,0.0,0.0
-415,415,Bundaberg,AU,-24.87,152.35,70.0,67,0,6.93,0.0,0.0
-416,416,Yarada,IN,17.65,83.27,81.25,70,31,4.63,0.0,0.0
-418,418,Kasamwa,TZ,-2.84,32.42,68.05,86,88,2.77,3.56,0.0
-419,419,Cayenne,GF,4.94,-52.33,86.0,70,78,13.87,0.0,0.0
-420,420,Pindiga,NG,9.98,10.93,80.92,37,68,0.98,0.0,0.0
-421,421,Puerto Leguizamo,CO,-0.19,-74.78,84.24,74,92,3.4,0.81,0.0
-424,424,Pacifica,US,37.61,-122.49,75.0,63,1,6.08,0.0,0.0
-425,425,Port Blair,IN,11.67,92.75,81.43,70,0,0.49,0.0,0.0
-426,426,Palembang,ID,-2.99,104.76,75.74,89,70,2.21,0.0,0.0
-427,427,Richards Bay,ZA,-28.77,32.06,70.72,92,100,23.26,12.63,0.0
-428,428,Bathsheba,BB,13.22,-59.52,80.6,83,40,14.99,0.0,0.0
-429,429,Gagnoa,CI,6.13,-5.95,73.42,94,20,1.54,0.44,0.0
-430,430,Jacksonville,US,30.33,-81.66,73.0,40,1,6.93,0.0,0.0
-431,431,Meulaboh,ID,4.14,96.13,79.47,79,100,5.48,3.63,0.0
-432,432,Antalaha,MG,-14.9,50.28,78.01,74,100,10.16,0.0,0.0
-433,433,Kitgum,UG,3.3,32.88,70.34,74,51,1.25,0.0,0.0
-436,436,Moba,CD,-7.04,29.77,80.17,71,82,6.69,0.0,0.0
-437,437,Roebourne,AU,-20.77,117.15,73.83,31,0,7.92,0.0,0.0
-438,438,Arica,CL,-18.48,-70.32,69.8,64,73,11.41,0.0,0.0
-439,439,San Julian,PH,11.75,125.45,77.95,80,100,6.11,0.0,0.0
-440,440,Bowen,AU,-20.01,148.25,68.0,74,0,4.09,0.0,0.0
-443,443,Bukoba,TZ,-1.33,31.81,68.0,82,21,9.17,0.0,0.0
-444,444,Camacha,PT,33.08,-16.33,66.2,68,40,12.75,0.0,0.0
-445,445,La Jigua,EC,-1.06,-80.26,80.6,74,40,14.99,0.0,0.0
-447,447,Oistins,BB,13.07,-59.53,80.6,83,40,14.99,0.0,0.0
-448,448,Ocampo,MX,27.32,-102.4,74.89,44,78,3.76,0.0,0.0
-454,454,Kutum,SD,14.2,24.66,69.26,23,0,5.5,0.0,0.0
-458,458,Saiha,IN,22.49,92.98,63.55,94,76,3.15,0.0,0.0
-459,459,Port Hedland,AU,-20.31,118.58,68.0,82,84,6.93,0.0,0.0
-461,461,Namibe,AO,-15.19,12.15,76.75,83,87,5.99,0.0,0.0
-463,463,Moussoro,TD,13.64,16.49,87.37,11,100,8.05,0.0,0.0
-464,464,Tabou,CI,4.42,-7.36,76.26,93,6,3.44,0.0,0.0
-466,466,Chilakalurupet,IN,16.09,80.17,72.21,88,0,3.09,0.0,0.0
-468,468,Muisne,EC,0.61,-80.02,75.25,84,99,9.75,0.0,0.0
-470,470,Saraland,US,30.82,-88.07,73.4,60,75,6.93,0.0,0.0
-471,471,Maragogi,BR,-9.01,-35.22,79.52,76,57,15.14,0.0,0.0
-473,473,Dondo,MZ,-19.62,34.74,78.8,74,20,8.05,0.0,0.0
-475,475,Pisco,PE,-13.71,-76.2,71.6,30,75,10.29,0.0,0.0
-478,478,Kaputa,ZM,-8.47,29.66,69.4,77,78,2.82,0.69,0.0
-480,480,Bilma,NE,18.69,12.92,78.66,14,53,7.99,0.0,0.0
-481,481,Divnomorskoye,RU,44.5,38.13,61.88,60,0,4.83,0.0,0.0
-483,483,Boueni,YT,-12.9,45.08,80.6,83,53,4.7,0.0,0.0
-484,484,Half Moon Bay,US,37.46,-122.43,75.0,72,1,4.7,0.0,0.0
-485,485,Mangrol,IN,25.33,76.51,70.32,50,0,5.17,0.0,0.0
-486,486,Adiake,CI,5.29,-3.3,82.4,83,20,3.36,0.0,0.0
-491,491,Mahibadhoo,MV,3.78,72.97,81.54,75,69,6.93,6.19,0.0
-492,492,Bang Saphan,TH,11.21,99.51,74.71,80,98,5.12,0.0,0.0
-494,494,Pitimbu,BR,-7.47,-34.81,80.6,74,20,13.87,0.0,0.0
-496,496,Quatre Cocos,MU,-20.21,57.76,72.0,94,40,3.36,0.0,0.0
-497,497,Kisaran,ID,2.98,99.62,73.45,96,100,1.9,0.0,0.0
-500,500,Ekuvukeni,ZA,-28.47,30.16,62.22,85,18,2.24,0.75,0.0
-501,501,Faya,SA,18.39,42.45,60.8,71,0,5.03,0.0,0.0
-502,502,Timbiqui,CO,2.77,-77.67,78.17,93,100,5.88,6.25,0.0
-505,505,Catuday,PH,16.29,119.81,81.09,73,77,0.98,0.0,0.0
-506,506,Hobyo,SO,5.35,48.53,78.31,79,3,12.37,0.0,0.0
-507,507,Morristown,US,36.21,-83.29,64.4,39,1,8.05,0.0,0.0
-508,508,Kampong Cham,KH,11.99,105.46,71.56,94,100,6.58,1.19,0.0
-510,510,Petauke,ZM,-14.25,31.33,71.82,70,95,7.07,0.0,0.0
-512,512,Eureka,US,40.8,-124.16,62.01,76,1,5.82,0.0,0.0
-517,517,General Pico,AR,-35.66,-63.75,83.59,23,45,16.64,0.0,0.0
-518,518,Yeppoon,AU,-23.13,150.74,60.8,67,0,4.7,0.0,0.0
-521,521,Teshie,GH,5.58,-0.11,73.4,100,20,5.82,0.0,0.0
-523,523,Sorong,ID,-0.86,131.25,71.37,98,13,1.86,0.0,0.0
-525,525,Axim,GH,4.87,-2.24,76.89,91,99,3.53,0.19,0.0
-526,526,Bubaque,GW,11.28,-15.83,83.5,69,37,14.2,0.0,0.0
-532,532,Senanga,ZM,-16.1,23.3,73.38,68,26,3.44,1.56,0.0
-536,536,Calama,CL,-22.46,-68.93,77.0,8,66,23.04,0.0,0.0
-538,538,Forio,IT,40.73,13.86,64.0,76,40,5.82,0.0,0.0
-540,540,Caravelas,BR,-17.73,-39.27,75.24,79,64,11.01,0.0,0.0
-541,541,Kuruman,ZA,-27.46,23.43,75.0,23,0,11.52,0.0,0.0
-542,542,Tiarei,PF,-17.53,-149.33,84.2,66,75,4.7,0.0,0.0
-543,543,Maumere,ID,-8.63,122.22,76.23,73,100,3.27,0.0,0.0
-544,544,Gondal,IN,21.96,70.8,79.0,55,36,3.96,0.0,0.0
-545,545,Siverek,TR,37.75,39.32,62.6,21,0,2.24,0.0,0.0
-547,547,Keetmanshoop,,-26.57,18.15,75.2,25,0,14.99,0.0,0.0
-548,548,Panguna,PG,-6.32,155.48,73.45,85,100,0.49,0.0,0.0
-550,550,Camacupa,AO,-12.02,17.48,64.2,96,100,3.76,2.5,0.0
+City_ID,City,Country,Max Temp,Lat,Lng,Hotel Name
+1,Padang,ID,65.68,-0.92,100.36,Mercure Padang
+2,Chuy,UY,65.05,-33.69,-53.46,Nuevo Hotel Plaza
+5,Vallenar,CL,68.27,-28.58,-70.76,Humacao Bed & Breakfast
+6,Jalu,LY,70.48,29.03,21.55,Jalu Hotel
+7,Vaini,IN,67.01,15.34,74.49,Dandeli Lake County
+8,Nizwa,OM,65.52,22.93,57.53,Orient Apartments
+9,Bredasdorp,ZA,66.0,-34.53,20.04,Bredasdorp Country Manor
+10,Awjilah,LY,70.48,29.14,21.3,استراحة التعاون أوجلة
+11,Hilo,US,84.2,19.71,-155.08,Hilo Seaside Hotel
+12,Jamestown,AU,61.97,-33.21,138.6,Jamestown Motel Terraces
+13,Atuona,PF,79.65,-9.8,-139.03,Villa Enata
+15,Hervey Bay,AU,70.0,-25.3,152.85,Shelly Bay Resort
+16,Ushuaia,AR,62.6,-54.81,-68.31,Albatros Hotel
+19,Rikitea,PF,73.87,-23.12,-134.97,Pension Maro'i
+20,Alofi,NU,80.6,-19.06,-169.92,Taloa Heights
+21,Port Alfred,ZA,63.0,-33.59,26.89,The Halyards Hotel
+22,Puerto Ayora,EC,78.8,-0.74,-90.35,Finch Bay Galapagos Hotel
+23,San Buenaventura,MX,75.0,27.06,-101.55,Hotel Gran Plaza
+25,Ormara,PK,79.75,25.21,64.64,
+27,Cape Town,ZA,69.01,-33.93,18.42,Southern Sun Waterfront Cape Town
+29,Dutlwe,BW,72.12,-23.98,23.93,
+30,Arraial Do Cabo,BR,82.4,-22.97,-42.02,Pousada Porto Praia
+31,Sembakung,ID,74.61,3.82,117.25,
+35,Omboue,GA,75.06,-1.57,9.26,Hotel Olako
+36,Buchanan,LR,80.6,5.88,-10.05,Kamaneahn Hotel Inc
+37,Nome,US,77.0,30.04,-94.42,Silver Spur Mobile Home & RV Park
+39,Port Lincoln,AU,69.98,-34.72,135.86,Port Lincoln Hotel
+40,Coquimbo,CL,82.0,-29.95,-71.34,Hotel San Juan
+42,Mahebourg,MU,72.0,-20.41,57.7,Shandrani Beachcomber Resort & Spa
+44,Lorengau,PG,83.53,-2.02,147.27,Lorengau Harbourside Hotel
+45,Butaritari,KI,83.53,3.07,172.79,Isles Sunset Lodge
+46,Corinto,CO,86.0,3.17,-76.26,Hotel San Fernando Argelia
+50,Tumarbong,PH,73.15,10.38,119.46,
+52,Castro,CL,64.4,-42.48,-73.76,Hotel Esmeralda
+53,Faanui,PF,79.59,-16.48,-151.75,Bora-Bora Pearl Beach Resort & Spa
+54,Karratha,AU,79.34,-20.74,116.85,ibis Styles Karratha
+55,Fortuna,US,62.01,40.6,-124.16,Super 8 By Wyndham Fortuna
+57,Beloha,MG,65.48,-25.17,45.06,
+63,Puerto Escondido,MX,87.8,15.86,-97.07,Aldea del Bazar Hotel and Spa
+66,Inirida,CO,81.41,3.87,-67.92,Fuente del Guania Hotel de Lujo
+67,Hithadhoo,MV,82.45,-0.6,73.08,Scoop Guest House
+68,Georgetown,GY,86.0,6.8,-58.16,Kanhai's Center
+69,Lompoc,US,80.01,34.64,-120.46,Holiday Inn Express Lompoc
+70,Maralal,KE,65.55,1.1,36.7,Ngari Hill Ecolodge
+71,Noumea,NC,75.99,-22.28,166.46,Hôtel Le Lagon
+72,Ajdabiya,LY,69.44,30.75,20.22,سعيد الصبحي للتكييف والتبريد
+74,Bambous Virieux,MU,72.0,-20.34,57.76,Casa Tia Villa
+78,Tual,ID,80.62,-5.67,132.75,Grand Vilia Hotel
+82,Hermanus,ZA,66.0,-34.42,19.24,Misty Waves Boutique Hotel
+83,Teknaf,BD,71.26,20.86,92.31,Magnum Engineering & Construction
+85,East London,ZA,67.73,-33.02,27.91,Tu Casa
+86,Touros,BR,82.4,-5.2,-35.46,INN NEW HORIZON
+88,Lebu,ET,60.8,8.96,38.73,Dah-Lak Guest House
+92,Progreso,UY,71.6,-34.68,-56.22,Villa La Alegria
+94,Watsa,CD,67.53,3.04,29.53,Hôtel Le Pacifique
+95,Matay,EG,68.49,28.42,30.79,زكريا أحمد زكي
+96,Carnarvon,ZA,64.2,-30.97,22.13,Meerkat Manor
+98,Mushie,CD,74.01,-3.02,16.92,
+100,Maceio,BR,80.6,-9.67,-35.74,Mercure Maceio Pajucara Hotel
+101,Lithakia,GR,60.01,37.72,20.83,Zante Plaza Hotel & Apartments
+103,Avera,US,68.0,33.19,-82.53,
+104,Sur,OM,74.89,22.57,59.53,Sur Plaza Hotel
+106,Kavieng,PG,81.63,-2.57,150.8,Nusa Island Retreat
+107,Coihaique,CL,68.0,-45.58,-72.07,Diego De Almagro Coyhaique
+108,Bluff,AU,73.08,-23.58,149.07,Bluff Hotel
+111,Bouna,CI,80.13,9.27,-3.0,Hotel Reserve
+112,Marsa Matruh,EG,74.93,31.35,27.25,Beau Site
+113,Wajir,KE,85.66,1.75,40.07,Wajir Palace Hotel
+115,Barrow,AR,62.24,-38.31,-60.23,
+117,Los Llanos De Aridane,ES,69.8,28.66,-17.92,Valle Aridane
+118,Pacific Grove,US,75.99,36.62,-121.92,Lovers Point Inn
+120,Victoria,BN,78.8,5.28,115.24,Tiara Labuan Hotel
+121,Kavaratti,IN,80.8,10.57,72.64,Hotels in Lakshadweep Islands
+122,Russell,US,68.0,38.9,-98.86,Quality Inn
+124,Kapaa,US,82.4,22.08,-159.32,Courtyard by Marriott Kaua'i at Coconut Beach
+126,Airai,TL,67.1,-8.93,125.41,Juvinal Martin
+127,Japura,ID,72.72,-0.42,102.29,Ladang Sawit Bersama
+132,Kahului,US,84.2,20.89,-156.47,Maui Seaside Hotel
+133,Isangel,VU,68.0,-19.55,169.27,Volcano Sea View Tree House
+135,Buala,SB,81.0,-8.15,159.59,Maringe Lagoon Lodge
+138,Rio Gallegos,AR,62.6,-51.62,-69.22,Hotel Santa Cruz
+139,Ribeira Grande,PT,62.6,38.52,-28.7,Quinta da Meia Eira
+143,San Jose,HN,75.65,14.25,-87.96,APUFRAM
+145,San Patricio,PY,81.93,-26.98,-56.83,Posada Doña Antonia
+148,Sao Felix Do Xingu,BR,77.05,-6.64,-51.99,Apart Hotel Rio Xingu
+149,Tomatlan,MX,88.11,19.93,-105.25,Norma
+151,Diamantina,BR,76.24,-18.24,-43.6,HOTEL MONTANHAS DE MINAS
+154,Nsanje,MZ,74.25,-16.92,35.26,Nsanje Discovery Lodge
+155,Lagoa,PT,60.8,37.14,-8.45,Agua Hotels Vale Da Lapa Lagoa
+157,Menongue,AO,64.17,-14.66,17.68,Ritz Lauca
+158,Avarua,CK,73.4,-21.21,-159.78,Paradise Inn
+160,Nhulunbuy,AU,71.6,-12.18,136.78,Gove Peninsula Motel
+161,Oranjemund,ZA,60.17,-28.55,16.43,Sperrgebiet Guest House
+162,Dingle,PH,72.9,11.0,122.67,Camp Pasica
+165,Pantai Remis,MY,77.0,4.46,100.63,Leisure Homestay
+166,Ponta Delgada,PT,64.4,37.73,-25.67,Vila Nova Hotel
+167,Necochea,AR,60.01,-38.55,-58.74,dyd -mar Hotel
+170,Ixtapa,MX,88.0,20.71,-105.21,Container Inn Puerto Vallarta
+174,Cockburn Town,TC,86.0,21.46,-71.14,Osprey Beach Hotel
+176,Osmanabad,IN,69.71,18.19,76.04,Hotel Megh Malhar
+177,Acapulco,MX,89.6,16.86,-99.88,Crowne Plaza Acapulco
+179,Ancud,CL,64.4,-41.87,-73.83,HOTEL ANCUD DON LUCAS
+180,Grand Gaube,MU,72.0,-20.01,57.66,Veranda Paul et Virginie Hotel & Spa
+183,Flinders,AU,64.99,-34.58,150.85,Shellharbour Resort & Conference Centre
+184,Le Vauclin,MQ,84.2,14.55,-60.84,Hôtel Cap Macabou
+185,Tadine,NC,74.39,-21.55,167.88,
+194,Anloga,GH,80.6,5.79,0.9,Pin Drop Hotel
+196,Parang,PH,67.32,7.38,124.27,EJ PENSIONNE
+199,Takoradi,GH,81.09,4.89,-1.75,Raybow International Hotel
+204,Teya,MX,84.99,21.05,-89.07,Hacienda Grupo Mérida Sur
+206,Sibolga,ID,70.9,1.74,98.78,Hotel Syariah CN Darussalam
+209,Aguimes,ES,70.0,27.91,-15.45,Hotel Villa de Aguimes
+212,Imbituba,BR,73.4,-28.24,-48.67,Praia Hotel Imbituba
+213,Mmabatho,ZA,69.8,-25.85,25.61,Mahikeng Guest Apartments
+215,Mattru,SL,77.2,7.62,-11.83,Boima Gbondo's Compound
+217,Pivijay,CO,89.6,10.46,-74.62,Hospedaje La Posada
+218,Sao Joao Da Barra,BR,82.4,-21.64,-41.05,Pousada Porto De Canoas
+219,Coahuayana,MX,88.74,18.62,-100.35,
+221,Abu Zabad,SD,76.06,12.35,29.25,
+223,Valle Del Guamuez,CO,89.6,0.45,-76.92,Hotel Casa Blanca Orito
+228,Sitka,US,66.99,37.17,-99.65,
+229,Codrington,AU,61.0,-28.95,153.24,
+230,Tomigusuku,JP,71.6,26.18,127.67,DoubleTree by Hilton Hotel Naha
+233,Dakar,SN,77.0,14.69,-17.45,Hotel Novotel Dakar
+236,Satun,TH,77.0,6.62,100.07,Pinnacle Wangmai Satun Hotel
+240,Mbini,GQ,80.04,1.58,9.62,
+241,Kruisfontein,ZA,62.67,-34.0,24.73,Oyster Bay House Rental
+242,Redlands,US,89.6,34.06,-117.19,Dynasty Suites Redlands
+243,The Valley,AI,87.8,18.22,-63.06,CeBlue Villas & Beach Resort
+244,Byron Bay,AU,66.0,-28.65,153.62,Backpackers Inn on the Beach
+245,Sao Miguel Do Araguaia,BR,82.42,-13.28,-50.16,Hotel Executivo Palace
+246,Zeerust,ZA,69.8,-25.54,26.07,Kareespruit Game Ranch and Guest House
+247,Sao Filipe,CV,74.84,14.9,-24.5,Tortuga B&B
+248,Soyo,AO,80.6,-6.13,12.37,Hotel Mpampa
+249,Bandarbeyla,SO,79.36,9.49,50.81,REER XOOSHLE GROUP
+251,Manuk Mangkaw,PH,80.74,4.8,119.85,
+256,Hualmay,PE,71.19,-11.1,-77.61,Hotel Restaurant Turístico Casablanca
+257,Salalah,OM,78.8,17.01,54.1,HAMDAN PLAZA HOTEL
+258,Mao,DO,89.6,19.55,-71.08,Hotel Novus Caoba
+262,Haapiti,PF,84.2,-17.57,-149.87,Linareva Moorea Beach Resort
+266,Taoudenni,ML,68.56,22.68,-3.98,
+267,Punta De Bombon,PE,63.19,-17.17,-71.79,Hotel Bedregal
+268,Cabatuan,PH,70.21,16.95,121.67,Golden A Hotel
+271,Mtwara,TZ,77.0,-10.28,40.18,Til Hotels
+272,Rundu,,77.0,-17.91,19.77,Millennia Estate
+273,Constitucion,MX,78.8,23.99,-104.67,Hotel Posada San Agustin
+275,Sinnamary,GF,81.97,5.38,-52.96,ALETHEIA Appartement Sinnamary
+276,Khani,GE,62.6,41.96,42.96,
+277,Nakhon Sawan,TH,70.07,15.7,100.13,The Paradiso JK Design Hotel Nakhon Sawan.
+278,Henties Bay,,60.01,-22.12,14.28,Fishermans Guest House
+279,Cidreira,BR,69.82,-30.17,-50.22,Pond Country Club
+280,Sola,TZ,72.93,-3.17,33.8,Peace Hotel
+281,Iquitos,PE,89.6,-3.75,-73.25,Cortez Malaga Techy Caroly
+284,Harper,US,69.01,30.3,-99.24,
+285,Tabuk,PH,69.57,17.41,121.44,Grand Zion Garden Resort Hotel
+287,Awash,ET,73.33,8.99,40.17,Kediga hotel
+290,Garissa,KE,80.6,-0.46,39.64,Almond Resort
+292,Mogadishu,SO,82.92,2.04,45.34,Olympic Hotel
+294,Inhambane,MZ,74.97,-23.87,35.38,MHL Turismo SA
+295,Paranapanema,BR,71.98,-23.39,-48.72,Hotel Beira Rio
+296,Santo Domingo,DO,89.6,18.48,-69.94,Hotel Aladino Santo Domingo
+298,Cervo,BR,73.4,-22.19,-46.24,
+301,Luanda,AO,80.6,-8.83,13.24,EPIC SANA Luanda
+303,Matamoros,US,78.8,25.87,-97.51,Hotel Alameda Express
+304,Orangeburg,US,66.2,33.49,-80.86,Palmetto Inn & Suites
+306,Nortelandia,BR,72.09,-14.45,-56.8,Hotel Karysmã
+318,Rosarito,CO,80.6,4.91,-75.23,Hostal Restaurante Horizol
+319,Ponta Do Sol,BR,78.24,-20.63,-46.0,Hotel Escarpas do Lago
+322,Ankpa,NG,74.35,7.37,7.63,AA Suites
+325,Tezu,IN,63.7,27.93,96.16,Circuit House
+326,Agua Dulce,MX,78.8,18.14,-94.15,Hotel Victoria
+330,Amahai,ID,81.0,-3.31,129.0,Hotel isabella
+331,Mareeba,AU,71.6,-16.99,145.42,Mareeba Country Caravan Park
+332,Sulangan,PH,82.24,11.14,123.72,Maia's Beach Resort
+333,Sucua,EC,80.6,-2.46,-78.17,Parroquia Santa Marianita de Jesus
+334,La Asuncion,AR,67.1,-26.05,-65.39,LA ASUNCION
+335,Sabha,LY,73.04,27.03,14.43,محطة سفر غات
+338,Luderitz,,62.6,-26.65,15.16,LÜDERITZ NEST HOTEL
+341,Sungaipenuh,ID,63.77,-2.08,101.38,Hotel Jaya Wisata 2
+343,Tocopilla,CL,71.65,-22.09,-70.2,Hotel Galvarino
+344,Adrar,DZ,62.6,27.87,-0.29,s.e.t.setif entenne d'adrar
+345,Ormond Beach,US,78.01,29.29,-81.06,Royal Floridian Resort By Spinnaker
+346,Malindi,KE,80.6,-3.22,40.12,African House Resort
+347,Alta Floresta,BR,81.95,-9.87,-56.08,Floresta Amazonica Hotel
+348,Zwedru,LR,75.11,6.07,-8.13,Elijah Worjloh
+350,Vila Franca Do Campo,PT,64.4,37.72,-25.43,Pestana Bahia Praia
+352,Morondava,MG,77.74,-20.3,44.28,La Case Bambou
+354,North Bend,US,63.0,43.41,-124.22,Red Lion Hotel Coos Bay
+357,Machaneng,BW,74.25,-23.19,27.49,
+360,Nouadhibou,MR,68.0,20.93,-17.03,El Medina
+361,Naze,NG,73.4,5.43,7.07,Female Hostel C
+364,Vila Velha,BR,86.0,-3.71,-38.6,Hotel Iparana Paradise
+365,Port Shepstone,ZA,64.58,-30.74,30.45,My Den Beachfront B&B And Self-Catering
+366,Nioro,GM,89.53,13.79,-15.05,
+367,Chicama,PE,68.0,-7.84,-79.15,Hospedaje Punta Cana PERU
+368,Villa Rica,CO,86.0,3.18,-76.46,Hotel El Saman
+369,Mubi,NG,78.75,10.27,13.26,Hotel
+370,Taltal,CL,62.01,-25.41,-70.49,Residencial Karime
+374,Coos Bay,US,63.0,43.37,-124.22,Best Western Holiday Hotel
+375,Texarkana,US,73.0,33.44,-94.04,Holiday Inn Express & Suites Texarkana
+376,Jacala,MX,68.38,21.0,-99.19,Hotel Mariely
+377,Rock Sound,BS,76.41,24.9,-76.2,Rock Sound Club
+379,Tessalit,ML,76.12,20.2,1.01,
+381,Sampit,ID,74.77,-2.54,112.95,Aquarius Boutique Hotel Sampit
+382,Comodoro Rivadavia,AR,60.8,-45.87,-67.48,Austral Hotel
+383,Guerrero Negro,MX,76.05,27.97,-114.04,The Halfway Inn
+384,Labuhan,ID,72.93,-2.54,115.51,Pondok Indah Gula Habang
+387,Denpasar,ID,73.54,-8.65,115.22,Aston Denpasar Hotel & Convention Center
+389,Wamba,CD,69.08,2.14,27.99,
+396,Nanning,CN,60.8,22.83,108.3,Nanning Travelling With Hostel
+398,Danielskuil,ZA,61.61,-28.19,23.54,Botha'Sig Gastehuis
+401,Banda,IN,65.37,28.24,80.11,Shivam vartan Bhander
+402,Pontianak,ID,75.04,-0.02,109.34,Aston Pontianak Hotel & Convention Center
+407,Cananeia,BR,71.73,-25.01,-47.93,Casa azul
+408,Broken Hill,AU,67.69,-31.97,141.45,Royal Exchange Hotel
+411,Siloam Springs,US,72.0,36.19,-94.54,Cherokee Hotel & Casino West Siloam Springs
+412,Pathanamthitta,IN,68.65,9.27,76.79,Govt: Guest House
+414,Ballitoville,ZA,66.2,-29.54,31.21,Hotel Fairmont Zimbali Resort
+415,Bundaberg,AU,70.0,-24.87,152.35,Takalvan Motel
+416,Yarada,IN,81.25,17.65,83.27,JV's Green Valley Beach Resort
+418,Kasamwa,TZ,68.05,-2.84,32.42,
+419,Cayenne,GF,86.0,4.94,-52.33,Hôtel Le Dronmi
+420,Pindiga,NG,80.92,9.98,10.93,Accommodation Center
+421,Puerto Leguizamo,CO,84.24,-0.19,-74.78,la casona de juancho
+424,Pacifica,US,75.0,37.61,-122.49,Lighthouse Hotel
+425,Port Blair,IN,81.43,11.67,92.75,Fortune Resort Bay Island
+426,Palembang,ID,75.74,-2.99,104.76,Aston Palembang Hotel & Conference Center
+427,Richards Bay,ZA,70.72,-28.77,32.06,BON Hotel Waterfront Richards Bay
+428,Bathsheba,BB,80.6,13.22,-59.52,Atlantis Hotel
+429,Gagnoa,CI,73.42,6.13,-5.95,Residence Kiliyo
+430,Jacksonville,US,73.0,30.33,-81.66,Hyatt Regency Jacksonville Riverfront
+431,Meulaboh,ID,79.47,4.14,96.13,Kost Pria
+432,Antalaha,MG,78.01,-14.9,50.28,Hotel Vitasoa
+433,Kitgum,UG,70.34,3.3,32.88,Jaflo Gardens Hotel
+436,Moba,CD,80.17,-7.04,29.77,
+437,Roebourne,AU,73.83,-20.77,117.15,Harding River Caravan Park
+438,Arica,CL,69.8,-18.48,-70.32,Hostal Jardin Del Sol
+439,San Julian,PH,77.95,11.75,125.45,Floria's Inn
+440,Bowen,AU,68.0,-20.01,148.25,Rose Bay Resort
+443,Bukoba,TZ,68.0,-1.33,31.81,Elct Bukoba Hotel and Tours
+444,Camacha,PT,66.2,33.08,-16.33,Hotel Porto Santo & Spa
+445,La Jigua,EC,80.6,-1.06,-80.26,Centro Turistico Casa Blanca
+447,Oistins,BB,80.6,13.07,-59.53,Butterfly Beach Hotel
+448,Ocampo,MX,74.89,27.32,-102.4,Hotel La Quinta
+454,Kutum,SD,69.26,14.2,24.66,
+458,Saiha,IN,63.55,22.49,92.98,"Circuit House, Saiha"
+459,Port Hedland,AU,68.0,-20.31,118.58,The Esplanade Hotel
+461,Namibe,AO,76.75,-15.19,12.15,Chik-Chik Namibe
+463,Moussoro,TD,87.37,13.64,16.49,Pharmacie alnadja Moussoro
+464,Tabou,CI,76.26,4.42,-7.36,Hotel Les Rochers
+466,Chilakalurupet,IN,72.21,16.09,80.17,Sreemitra heights
+468,Muisne,EC,75.25,0.61,-80.02,Quinta Samay
+470,Saraland,US,73.4,30.82,-88.07,Microtel Inn & Suites by Wyndham Saraland/North Mobile
+471,Maragogi,BR,79.52,-9.01,-35.22,Salinas do Maragogi All Inclusive Resort
+473,Dondo,MZ,78.8,-19.62,34.74,Arco Iris
+475,Pisco,PE,71.6,-13.71,-76.2,Hostal San Isidro Oficial
+478,Kaputa,ZM,69.4,-8.47,29.66,Chilekwa Lodge
+480,Bilma,NE,78.66,18.69,12.92,Expeditions Ténére voyages
+481,Divnomorskoye,RU,61.88,44.5,38.13,Primorskiy
+483,Boueni,YT,80.6,-12.9,45.08,Auberge bouloulou( inter djasmire )
+484,Half Moon Bay,US,75.0,37.46,-122.43,"The Ritz-Carlton, Half Moon Bay"
+485,Mangrol,IN,70.32,25.33,76.51,Mehra printing press
+486,Adiake,CI,82.4,5.29,-3.3,Hotel Lagune
+491,Mahibadhoo,MV,81.54,3.78,72.97,Omadhoo Inn
+492,Bang Saphan,TH,74.71,11.21,99.51,Ladawan Boutique Hotel
+494,Pitimbu,BR,80.6,-7.47,-34.81,Reserva do Abiaí
+496,Quatre Cocos,MU,72.0,-20.21,57.76,Emeraude Beach Attitude Hotel
+497,Kisaran,ID,73.45,2.98,99.62,Kost Orange Pak Zul
+500,Ekuvukeni,ZA,62.22,-28.47,30.16,Sibeko Resident
+501,Faya,SA,60.8,18.39,42.45,مقبرة ال مجمل
+502,Timbiqui,CO,78.17,2.77,-77.67,hotel diana
+505,Catuday,PH,81.09,16.29,119.81,GResort
+506,Hobyo,SO,78.31,5.35,48.53,
+507,Morristown,US,64.4,36.21,-83.29,Days Inn by Wyndham Morristown
+508,Kampong Cham,KH,71.56,11.99,105.46,7 Makara Hotel
+510,Petauke,ZM,71.82,-14.25,31.33,Eriboma Executive Lodge
+512,Eureka,US,62.01,40.8,-124.16,Eureka Inn
+517,General Pico,AR,83.59,-35.66,-63.75,Hotel Malargue
+518,Yeppoon,AU,60.8,-23.13,150.74,Villa Mar Colina
+521,Teshie,GH,73.4,5.58,-0.11,Best Western Plus Accra Beach Hotel
+523,Sorong,ID,71.37,-0.86,131.25,The Waigo Hotel
+525,Axim,GH,76.89,4.87,-2.24,AXIM BEACH RESORT AND SPA
+526,Bubaque,GW,83.5,11.28,-15.83,Casa Dora
+532,Senanga,ZM,73.38,-16.1,23.3,Kashuwa Lodge
+536,Calama,CL,77.0,-22.46,-68.93,Park Hotel Calama
+538,Forio,IT,64.0,40.73,13.86,Hotel Terme Providence
+540,Caravelas,BR,75.24,-17.73,-39.27,Pousada Dos Navegantes
+541,Kuruman,ZA,75.0,-27.46,23.43,Cornerstone Guest House
+542,Tiarei,PF,84.2,-17.53,-149.33,Le Rocher de Tahiti
+543,Maumere,ID,76.23,-8.63,122.22,Sylvia Hotel
+544,Gondal,IN,79.0,21.96,70.8,Orchard Palace
+545,Siverek,TR,62.6,37.75,39.32,Mercan Hotel
+547,Keetmanshoop,,75.2,-26.57,18.15,Bird's Mansion
+548,Panguna,PG,73.45,-6.32,155.48,
+550,Camacupa,AO,64.2,-12.02,17.48,
